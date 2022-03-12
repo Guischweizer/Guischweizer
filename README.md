@@ -8,16 +8,16 @@
 <p align="left"> <a href="https://twitter.com/guilhermeschw" target="blank"><img src="https://img.shields.io/twitter/follow/guilhermeschw?logo=twitter&style=for-the-badge" alt="guilhermeschw" /></a> </p>
 
 <p align="justify">
-  <a href="https://github.com/DanielObara/github-readme-stats">
+  <a href="https://github.com/Guischweizer/github-readme-stats">
     <img
       height="150"
-      src="https://github-readme-stats.vercel.app/api?username=DanielObara&count_private=true&show_icons=true&custom_title=Github%20Status&show=issues&theme=radical"
+      src="https://github-readme-stats.vercel.app/api?username=Guischweizer&count_private=true&show_icons=true&custom_title=Github%20Status&show=issues&theme=radical"
     />
   </a>
-   <a href="https://github.com/DanielObara/github-readme-stats">
+   <a href="https://github.com/Guischweizer/github-readme-stats">
     <img
       height="150"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielObara&layout=compact&theme=radical" />
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guischweizer&layout=compact&theme=radical" />
   </a>  
 </p>
 
