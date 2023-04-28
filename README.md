@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Guilherme Schweizer!</h1>
-<h3 align="center">A Software Engineer from Brazil, mainly working with Frontend and playing around with Hackthebox and Cyber Security stuff.</h3>
+<h3 align="center">A Software Engineer from Brazil, mainly working with Backend and playing around with Hackthebox and Cyber Security stuff.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=guischweizer&label=Profile%20views&color=b40e0e&style=plastic" alt="guischweizer" /> </p>
 
