@@ -21,11 +21,7 @@
   </a>  
 </p> -->
 
-- 🌱 I’m currently learning **Cyber Security, and improving myself as a Frontend Engineer**
-
-- 📝 I want to start writing articles at [https://jesuisgui.tech/](https://jesuisgui.tech/)
-
-- 💬 Ask me about **React, Frontend Development, cyber security stuff, to be fair, ask me about anything. I would love to get some answers for you.**
+- 🌱 I’m currently working as a backend senior engineer :
 
 - 📫 How to reach me **guilherme.schweizer@gmail.com**
 
