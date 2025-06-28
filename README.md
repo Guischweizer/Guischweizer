@@ -34,6 +34,7 @@ I'm a backend software engineer with over 5 years of experience building robust,
 ### 📫 Let's Connect
 
 - [LinkedIn](https://linkedin.com/in/guilherme-schweizer)
+- [LinkTree](https://linktr.ee/Gu1lh3rm3x)
 
 ---
 
