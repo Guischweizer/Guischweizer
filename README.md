@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Guilherme Schweizer!
 
-I'm a backend software engineer with over 5 years of experience building robust, scalable, and maintainable systems. I specialize in **Node.js** (with a focus on **NestJS**) and have a strong foundation in **TypeScript**, **JavaScript**, and **Elixir**. My work spans backend APIs, cloud infrastructure, and high-availability services—always with clean code and long-term maintainability in mind.
+I'm a backend software engineer with over 7 years of experience building robust, scalable, and maintainable systems. I specialize in **Node.js** (with a focus on **NestJS**) and have a strong foundation in **TypeScript**, **JavaScript**, and **Elixir**. My work spans backend APIs, cloud infrastructure, and high-availability services—always with clean code and long-term maintainability in mind.
 
 ---
 
